@@ -146,6 +146,7 @@ form{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 @media (max-width: 420px) {
@@ -162,6 +163,7 @@ form{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 @media (max-width: 420px) {
     .questions2{
@@ -238,7 +240,8 @@ h3{
     height: 59px;
     border-radius: 33px;
     justify-content: space-around;
-    background-color: #F8EDDD;
+    background-color: #ffffff;
+    padding-top: 20px;
 }
 
 .login-button{
