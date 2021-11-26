@@ -240,8 +240,8 @@ h3{
     height: 59px;
     border-radius: 33px;
     justify-content: space-around;
-    background-color: #ffffff;
-    padding-top: 20px;
+    /* background-color: #ffffff; */
+    margin-top: 20px;
 }
 
 .login-button{
