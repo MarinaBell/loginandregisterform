@@ -5,7 +5,7 @@ const registerForm = document.querySelector('.register-form');
 
 registerButton.addEventListener('click', function(){
    loginForm.remove('active');
-   registerForm.add('active');
+   // registerForm.add('active');
 
    //  loginButton.remove('active');
    
@@ -18,10 +18,10 @@ registerButton.addEventListener('click', function(){
 })
 
 
-loginButton.addEventListener('click', function(){
-   loginForm.add('active');
-      registerForm.remove('active');
+// loginButton.addEventListener('click', function(){
+//    loginForm.add('active');
+//       registerForm.remove('active');
    
-})
+// })
 
 
